@@ -1,0 +1,29 @@
+body
+{
+  background-color: #EAF6F6;
+}
+/*#matooke:{
+  background-color: gold;
+}*/
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+  border-color: gray;
+
+}
+h1{
+    color:red;
+    font-size: 100px;
+}
+.kla{
+  color:#6BA368;
+}
+#matooke{
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: #634B66;
+}
